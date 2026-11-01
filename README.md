@@ -1,35 +1,50 @@
-<p align="center"><img src="banner.png" alt="RL Customs banner" width="100%"></p>
+<p align="center">
+  <img src="banner.png" alt="RL Customs" width="100%">
+</p>
 
-<p align="center"><img src="logo.png" alt="RL Customs logo" width="120"></p>
+<h3 align="center">Your garage. Your style.</h3>
 
-# RL Customs
+<p align="center">
+  Explore new looks for your Rocket League garage with RL Customs.
+</p>
 
-Make your Rocket League garage your own. Browse cars and other items, choose an appearance and preview your selection in a clean desktop app.
+<p align="center">
+  <a href="https://github.com/cortexstudiosinfo/RL-Customs/releases/tag/v0.0.1-beta"><img src="https://img.shields.io/badge/DOWNLOAD-BETA%200.0.1-168fe5?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Download beta 0.0.1"></a>
+  &nbsp;
+  <a href="https://discord.gg/PY5sY6hzB4"><img src="https://img.shields.io/badge/JOIN-OUR%20DISCORD-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Join our Discord"></a>
+</p>
 
-[Download the beta](https://github.com/cortexstudiosinfo/RL-Customs/releases) · [Join our Discord](https://discord.gg/PY5sY6hzB4)
+<br>
 
-## Explore your garage
+## Your garage, reimagined
 
-- Browse bodies, boosts, wheels, decals, goal explosions and more.
-- Search for items, choose available colors and preview a change.
-- Keep track of changes and restore items from the app.
-- Use the interface in English or Spanish.
-- See when a new version is available.
+Browse cars, boosts, wheels, decals and more. Pick the item you have equipped, choose the appearance you want to see and preview your selection before applying it.
 
-![RL Customs interface](interface.png)
+<p align="center">
+  <img src="interface.png" alt="The RL Customs interface" width="100%">
+</p>
 
-## Getting started
+### Made for your style
 
-1. Download **RLC.exe** from [Releases](https://github.com/cortexstudiosinfo/RL-Customs/releases) and open it on Windows.
+- **Discover** items across your favorite categories with search and previews.
+- **Personalize** your selection with available color variants.
+- **Restore** your changes from the app whenever you want.
+- **Choose your language:** English or Spanish.
+- **Stay up to date** with notifications for new versions.
+
+## Get started
+
+1. Download **RLC.exe** from the [beta release](https://github.com/cortexstudiosinfo/RL-Customs/releases/tag/v0.0.1-beta) and open it on Windows.
 2. Join the [RL Customs Discord](https://discord.gg/PY5sY6hzB4), complete verification and make sure you have the **User** role.
 3. Sign in with Discord in the app.
-4. Choose the item you have equipped and the appearance you want to see. Select an available color, then check and prepare the change.
-5. Close Rocket League before applying a change. Use **Backups and restore** when you want to restore an item.
+4. Choose your equipped item and the appearance you want. Select an available color, then check and prepare the change.
+5. Close Rocket League before applying. Use **Backups and restore** to restore an item.
 
-## Beta
+## Beta information
 
-RL Customs is in beta. Availability and compatibility depend on the selected items and the installed game version. Appearance changes are local and may need to be reapplied after a game update.
+RL Customs is in beta. Availability and compatibility depend on the selected items and installed game version. Appearance changes are local and may need to be reapplied after a game update.
 
-RL Customs is proprietary, closed-source software. All rights reserved.
+---
 
-Rocket League is a trademark of Psyonix LLC. RL Customs is an independent project and is not affiliated with or endorsed by Psyonix or Epic Games.
+<p align="center"><sub>RL Customs is proprietary, closed-source software. All rights reserved.</sub></p>
+<p align="center"><sub>Rocket League is a trademark of Psyonix LLC. RL Customs is an independent project and is not affiliated with or endorsed by Psyonix or Epic Games.</sub></p>
