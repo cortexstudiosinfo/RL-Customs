@@ -16,6 +16,14 @@
 
 <br>
 
+## Watch RL Customs in action
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=3rmY66QJVVg"><img src="https://i.ytimg.com/vi/3rmY66QJVVg/hqdefault.jpg" alt="Watch the RL Customs video on YouTube" width="640"></a>
+</p>
+
+<p align="center"><a href="https://www.youtube.com/watch?v=3rmY66QJVVg">▶ Watch the video on YouTube</a></p>
+
 ## Your garage, reimagined
 
 Browse cars, boosts, wheels, decals and more. Pick the item you have equipped, choose the appearance you want to see and preview your selection before applying it.
