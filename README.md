@@ -21,7 +21,7 @@
 Browse cars, boosts, wheels, decals and more. Pick the item you have equipped, choose the appearance you want to see and preview your selection before applying it.
 
 <p align="center">
-  <img src="interface.png" alt="The RL Customs interface" width="100%">
+  <img src="https://raw.githubusercontent.com/cortexstudiosinfo/RL-Customs/2fccff57ac47aad6faa156123f2ea6364ab96be4/interface.png" alt="The RL Customs interface" width="100%">
 </p>
 
 ### Made for your style
