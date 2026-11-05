@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cortexstudiosinfo/RL-Customs/releases/tag/v0.0.2-beta"><img src="https://img.shields.io/badge/DOWNLOAD-BETA%200.0.1-168fe5?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Download beta 0.0.2"></a>
+  <a href="https://github.com/cortexstudiosinfo/RL-Customs/releases/tag/v0.0.2-beta"><img src="https://img.shields.io/badge/DOWNLOAD-BETA%200.0.2-168fe5?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Download beta 0.0.2"></a>
   &nbsp;
   <a href="https://discord.gg/PY5sY6hzB4"><img src="https://img.shields.io/badge/JOIN-OUR%20DISCORD-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Join our Discord"></a>
 </p>
