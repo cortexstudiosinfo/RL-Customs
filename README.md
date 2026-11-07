@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cortexstudiosinfo/RL-Customs/releases/tag/v0.0.2-beta"><img src="https://img.shields.io/badge/DOWNLOAD-BETA%200.0.2-168fe5?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Download beta 0.0.2"></a>
+  <a href="https://github.com/cortexstudiosinfo/RL-Customs/releases/tag/v0.0.3-beta"><img src="https://img.shields.io/badge/DOWNLOAD-BETA%200.0.3-168fe5?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Download beta 0.0.3"></a>
   &nbsp;
   <a href="https://discord.gg/PY5sY6hzB4"><img src="https://img.shields.io/badge/JOIN-OUR%20DISCORD-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Join our Discord"></a>
 </p>
@@ -24,6 +24,15 @@
 
 <p align="center"><a href="https://www.youtube.com/watch?v=3rmY66QJVVg">▶ Watch the video on YouTube</a></p>
 
+## New in 0.0.3 Beta
+
+- **Smoother sign-in** with improvements to the Discord login system.
+- **Decal fixes** for a better customization experience.
+- **Improved search** to find items more easily in the catalogue.
+- **Experimental 3D Car Builder**, available in Settings and disabled by default.
+
+> The 3D preview is at an early stage. Most items and effects cannot be previewed yet. Future updates will gradually expand support and improve the preview.
+
 ## Your garage, reimagined
 
 Browse cars, boosts, wheels, decals and more. Pick the item you have equipped, choose the appearance you want to see and preview your selection before applying it.
@@ -36,17 +45,23 @@ Browse cars, boosts, wheels, decals and more. Pick the item you have equipped, c
 
 - **Discover** items across your favorite categories with search and previews.
 - **Personalize** your selection with available color variants.
+- **Save presets** with names and share them using a unique code.
+- **Import presets** and choose which items to replace.
 - **Restore** your changes from the app whenever you want.
 - **Choose your language:** English or Spanish.
 - **Stay up to date** with notifications for new versions.
 
 ## Get started
 
-1. Download **RLC.exe** from the [beta release](https://github.com/cortexstudiosinfo/RL-Customs/releases/tag/v0.0.1-beta) and open it on Windows.
+1. Download **RLC.exe** from the [beta release](https://github.com/cortexstudiosinfo/RL-Customs/releases/tag/v0.0.3-beta) and open it on Windows.
 2. Join the [RL Customs Discord](https://discord.gg/PY5sY6hzB4), complete verification and make sure you have the **User** role.
 3. Sign in with Discord in the app.
 4. Choose your equipped item and the appearance you want. Select an available color, then check and prepare the change.
 5. Close Rocket League before applying. Use **Backups and restore** to restore an item.
+
+## Help shape RL Customs
+
+Found a bug or have a suggestion? Let us know on our [Discord server](https://discord.gg/PY5sY6hzB4). Your feedback helps us keep improving RL Customs.
 
 ## Beta information
 
