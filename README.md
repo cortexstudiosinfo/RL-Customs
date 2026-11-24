@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cortexstudiosinfo/RL-Customs/releases/tag/v0.0.5-beta"><img src="https://img.shields.io/badge/DOWNLOAD-BETA%200.0.5-168fe5?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Download beta 0.0.5"></a>
+  <a href="https://github.com/cortexstudiosinfo/RL-Customs/releases/tag/v0.0.6-beta"><img src="https://img.shields.io/badge/DOWNLOAD-BETA%200.0.6-168fe5?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Download beta 0.0.6"></a>
   &nbsp;
   <a href="https://discord.gg/rlcustoms"><img src="https://img.shields.io/badge/JOIN-OUR%20DISCORD-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Join our Discord"></a>
 </p>
@@ -24,11 +24,12 @@
 
 <p align="center"><a href="https://www.youtube.com/watch?v=3rmY66QJVVg">▶ Watch the video on YouTube</a></p>
 
-## New in 0.0.5 Beta
+## New in 0.0.6 Beta
 
-- **Improved connectivity** for a smoother experience.
-- **Decal fixes** resolving issues affecting some items.
-- **More wheels in 3D** with expanded preview support.
+- **Fixed issues** affecting wheels and car bodies.
+- **Verification codes** via `/key` in Discord.
+- **Custom car paint colors**, including an all-black setup.
+- **Discord Rich Presence**.
 
 > The 3D Car Builder is experimental, available in Settings and disabled by default. It does not yet support every item or effect.
 
@@ -52,9 +53,9 @@ Browse cars, boosts, wheels, decals and more. Pick the item you have equipped, c
 
 ## Get started
 
-1. Download **RLC.exe** from the [beta release](https://github.com/cortexstudiosinfo/RL-Customs/releases/tag/v0.0.5-beta) and open it on Windows.
+1. Download **RLC.exe** from the [beta release](https://github.com/cortexstudiosinfo/RL-Customs/releases/tag/v0.0.6-beta) and open it on Windows.
 2. Join the [RL Customs Discord](https://discord.gg/rlcustoms), complete verification and make sure you have the **User** role.
-3. Sign in with Discord in the app.
+3. Run `/key` in **#key** and paste your verification code into RL Customs.
 4. Choose your equipped item and the appearance you want. Select an available color, then check and prepare the change.
 5. Close Rocket League before applying. Use **Backups and restore** to restore an item.
 
